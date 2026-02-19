@@ -2,7 +2,7 @@
   "name": "予約管理",
   "short_name": "予約",
   "start_url": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#0b1020",
   "theme_color": "#0b1020",
   "icons": [
